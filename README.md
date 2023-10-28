@@ -10,13 +10,13 @@ Analyse coffee sales data to identify seasonal trends and customer preferences i
 
 ### Tools
 - Excel for data cleaning
-- Ecvel for data analysis 
+- Excel for data analysis 
 - Excel for data visualisation
 
 ### Data Cleaning
 - XLOOKUP to retrieve data
 - INDEX MATCH for advanced data retrieval
-- Multiplication formulas for calucations
+- Multiplication formulas for calculations
 - IF Functions for data validation
 - Date Formatting for readable data presentation
 - Number Formatting for data clarity
